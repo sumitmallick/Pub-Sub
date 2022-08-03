@@ -1,2 +1,2 @@
-# jumpstartCS-rabbitmq-python
-Accompanying code for the jumpstartCS tutorial series on RabbitMQ
+# Pub/Sub using rabbitmq and python
+Accompanying code for the with RabbitMQ & Python
